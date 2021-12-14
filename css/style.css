@@ -10,5 +10,7 @@
 @import './home/introducao.css';
 /* Bicicleatas */
 @import './bicicletas/bicicleatas-lista.css';
-
+/* Tecnologia */
 @import './home/tecnologia.css';
+/* Parceiros */
+@import './home/parceiros.css'
