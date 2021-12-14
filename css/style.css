@@ -10,3 +10,5 @@
 @import './home/introducao.css';
 /* Bicicleatas */
 @import './bicicletas/bicicleatas-lista.css';
+
+@import './home/tecnologia.css';
